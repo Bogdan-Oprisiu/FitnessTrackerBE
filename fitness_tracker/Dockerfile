@@ -5,4 +5,4 @@ COPY target/fitness_v1.jar /tmp/fitness_v1.jar
 COPY .env /app/.env
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "/tmp/fitness.jar"]
+ENTRYPOINT ["java", "-jar", "/tmp/fitness_v1.jar"]

@@ -1,26 +1,3 @@
-#services:
-#  postgres:
-#    image: 'postgres:latest'
-#    environment:
-#      - 'POSTGRES_DB=exercises'
-#      - 'POSTGRES_PASSWORD=password'
-#      - 'POSTGRES_USER=postgres'
-#    ports:
-#      - '5400:5400'
-#    volumes:
-#      - postgres_data:/var/lib/postgresql/data
-#
-#volumes:
-#  postgres_data:
-#
-#version: '3.8'
-#
-#services:
-#  placeholder:
-#    image: busybox
-#    command: tail -f /dev/null
-
-
 services:
   postgres:
     container_name: fitness-database
@@ -39,6 +16,7 @@ services:
     build: .
     ports:
       - "8080:8080"
+
     depends_on:
       - postgres
     volumes:
