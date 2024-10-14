@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5165183-0179-4d56-a56a-286230301555" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tracker/fitness/app/FitnessTrackerSpringServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tracker/fitness/app/controllers/ExerciseController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tracker/fitness/app/entities/Exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tracker/fitness/app/repositories/ExerciseRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tracker/fitness/app/services/ExerciseService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tracker/fitness/app/FitnessTrackerSpringServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Bogdan-Oprisiu"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bogdan-Oprisiu/FitnessTrackerBE.git",
+    "accountId": "48a542b6-e556-4d1e-a6fb-676b2ed490ff"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -47,9 +45,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2nLDpzGXAZXfUYjyZUjZEle4PsF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,8 +63,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.FitnessTrackerSpringServerApplication.executor": "Run",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lulu/UBB/ANIII/SEM5/FitnessTrackerBE",
+    "last_opened_file_path": "C:/MyProjects/FitnessTrackerBE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +75,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.FitnessTrackerSpringServerApplication">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyProjects\FitnessTrackerBE\fitness_tracker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.compose.yaml: Compose Deployment">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="FitnessTrackerBE" />
       <method v="2">
@@ -97,7 +101,9 @@
       </method>
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
-      <deployment type="docker-compose.yml" />
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
     <configuration name="compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
@@ -110,16 +116,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.FitnessTrackerSpringServerApplication" />
         <item itemvalue="Docker.compose.yaml: Compose Deployment" />
+        <item itemvalue="Spring Boot.FitnessTrackerSpringServerApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -132,6 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728743650043</updated>
       <workItem from="1728743651300" duration="2111000" />
+      <workItem from="1728898266526" duration="3195000" />
     </task>
     <servers />
   </component>
