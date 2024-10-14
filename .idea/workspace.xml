@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5165183-0179-4d56-a56a-286230301555" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/entities/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/entities/ExerciseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/entities/MuscleGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/repositories/EquipmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/repositories/ExerciseTypeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/repositories/MuscleGroupRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/entities/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/entities/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/repositories/ExerciseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/repositories/ExerciseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/services/ExerciseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitness_tracker/src/main/java/tracker/fitness/app/services/ExerciseService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +58,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2nLDpzGXAZXfUYjyZUjZEle4PsF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +74,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.FitnessTrackerSpringServerApplication.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "bogdan-update-db",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/MyProjects/FitnessTrackerBE",
@@ -80,7 +92,7 @@
       <recent name="C:\MyProjects\FitnessTrackerBE\fitness_tracker" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.compose.yaml: Compose Deployment">
+  <component name="RunManager" selected="Spring Boot.FitnessTrackerSpringServerApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="FitnessTrackerBE" />
       <method v="2">
@@ -88,7 +100,7 @@
       </method>
     </configuration>
     <configuration name="FitnessTrackerSpringServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="fitness_tracker-spring_server" />
+      <module name="FitnessTrackerBE" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="tracker.fitness.app.FitnessTrackerSpringServerApplication" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.compose.yaml: Compose Deployment" />
         <item itemvalue="Spring Boot.FitnessTrackerSpringServerApplication" />
+        <item itemvalue="Docker.compose.yaml: Compose Deployment" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728743650043</updated>
       <workItem from="1728743651300" duration="2111000" />
-      <workItem from="1728898266526" duration="3195000" />
+      <workItem from="1728898266526" duration="5082000" />
     </task>
     <servers />
   </component>
