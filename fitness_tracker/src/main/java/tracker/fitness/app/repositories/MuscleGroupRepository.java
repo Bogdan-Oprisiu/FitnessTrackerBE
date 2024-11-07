@@ -9,5 +9,5 @@ import tracker.fitness.app.entities.Equipment;
 import tracker.fitness.app.entities.Workout;
 
 @Repository
-public interface ExerciseRepository extends JpaRepository<Exercise, Long> {
+public interface MuscleGroupRepository extends JpaRepository<MuscleGroup, Long> {
 }
